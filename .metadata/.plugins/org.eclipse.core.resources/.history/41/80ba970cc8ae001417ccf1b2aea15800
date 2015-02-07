@@ -1,0 +1,5 @@
+package com.lynda.javatraining.exception;
+
+public class WrongFileException extends Exception {
+
+}

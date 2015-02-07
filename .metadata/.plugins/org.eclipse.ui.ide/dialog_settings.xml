@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/Ashu/Downloads/Ex_Files_Java_Adv_Training/ExerciseFiles/08_IOStreams/ScanningText"/>
+			<item value="/Users/Ashu/Downloads/Ex_Files_Java_Adv_Training/ExerciseFiles/09_MultiThread/ExtendingThread"/>
+			<item value="/Users/Ashu/Downloads/Ex_Files_Java_Adv_Training/ExerciseFiles/07_Java7Files/FileTree"/>
+			<item value="/Users/Ashu/Downloads/Ex_Files_Java_Adv_Training/ExerciseFiles/07_Java7Files/ReadingAndWriting"/>
+			<item value="/Users/Ashu/Downloads/Ex_Files_Java_Adv_Training/ExerciseFiles/07_Java7Files/ManageFiles"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

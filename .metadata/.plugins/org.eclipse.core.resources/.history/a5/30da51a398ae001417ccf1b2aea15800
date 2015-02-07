@@ -1,0 +1,7 @@
+package com.lynda.olivepress.olives;
+
+public enum OliveName {
+
+	KALAMATA,LAGURIO,PICHOLINE,GOLDEN
+	
+}

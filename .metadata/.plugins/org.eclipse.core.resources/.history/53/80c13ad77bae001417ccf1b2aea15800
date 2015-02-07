@@ -1,0 +1,19 @@
+package ash.advanced.java;
+
+public class Java7plus {
+
+	public static void main(String[] args) {
+		String key = "One";
+		switch (key) {
+		case "One":
+			System.out.println("The value is one");
+			break;
+
+		default:
+
+			System.out.println("The value is not one");
+			break;
+		}
+	}
+
+}

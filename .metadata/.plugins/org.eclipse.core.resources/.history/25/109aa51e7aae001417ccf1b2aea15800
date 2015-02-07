@@ -1,0 +1,9 @@
+package ash.advanced.java;
+
+public class Java7plus {
+
+	public static void main(String[] args) {
+
+	}
+
+}

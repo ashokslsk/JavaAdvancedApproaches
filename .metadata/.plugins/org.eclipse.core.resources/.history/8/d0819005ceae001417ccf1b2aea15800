@@ -1,0 +1,7 @@
+package com.lynda.javatraining.filetree;
+
+import java.nio.file.SimpleFileVisitor;
+
+public class MyFileVistor extends SimpleFileVisitor<T> {
+
+}
